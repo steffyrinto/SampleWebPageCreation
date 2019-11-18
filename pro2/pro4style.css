@@ -1,0 +1,239 @@
+.main{
+  width: 100%;
+  height: 100%;
+
+}
+.nav{
+  width: 100%;
+  height: 15%;
+  left: 5%;
+}
+ .nav ul {
+   list-style-type: none;
+  background-color: white;
+}
+
+ .nav li {
+  float: left;
+}
+
+ .nav li a {
+  display: block;
+  color: grey;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ .nav li a:hover {
+  background-color: white;
+  color: Green;
+}
+.row1
+{
+  position: absolute;
+  top: 15%;
+  width: 100%;
+  height: 70%;
+  background-color: aliceblue;
+}
+.crete
+{
+  position: absolute;
+left: 20%;
+  top: 15%;
+}
+.crete p{
+  font-size: 40px;
+}
+.tic{
+  position: absolute;
+  left: 60%;
+  top: 30%
+}
+.tick{
+  list-style-type: none;
+}
+.tic li.tick:before {
+  content: "\2713";
+  color: green;
+}
+.tic button
+{
+  position: absolute;
+  left: 26%;
+  top: 110%;
+  padding: 15px 50px;
+  background-color: forestgreen;
+  color: white;
+  border-radius: 10px;
+}
+.next
+{
+  position: absolute;
+  background-color:azure;
+  width: 100%;
+  height: 10%;
+  top: 85%;
+  text-align: center;
+}
+.mill{
+  margin: 1%;
+  position: absolute;
+  left: 10%;
+
+}
+.over{
+  margin: 1%;
+  position: absolute;
+  left: 30%;
+
+}
+.ove{
+  margin: 1%;
+  position: absolute;
+  left: 55%;
+
+}
+.ov{
+  margin: 1%;
+  position: absolute;
+  left: 80%;
+
+}
+.why{
+  width: 100%;
+  height: 70%;
+  position: absolute;
+  top: 110%;
+}
+.why p{
+  font-size: 20px;
+  text-align: center;
+}
+.why h1
+{
+  text-align: center;
+}
+.edit{
+  margin: 20px;
+  float:left;
+  width: 30%;
+}
+.edit p{
+  text-align: justify;
+}
+.edit h3.tik:before {
+  content: "\2713";
+  color: green;
+}
+
+.learn a{
+  text-decoration: none;
+  position: absolute;
+  top: 110%;
+  left: 40%;
+  color: skyblue;
+}
+.youtube
+{
+  position: absolute;
+  top: 200%;
+  left: 30%;
+}
+.all{
+position: absolute;
+top: 280%;
+width: 100%;
+height: 60%;
+}
+.all h1
+{
+  text-align: center;
+}
+.domain
+{
+  position: absolute;
+  top: 35%;
+  left: 5%;
+  margin-left: 5px;
+
+}
+.domain2
+{
+  position: absolute;
+  top: 35%;
+  left: 35%;
+  margin-left: 5px;
+
+}
+.domain3
+{
+  position: absolute;
+  top: 35%;
+  left: 70%;
+
+
+}
+.domi
+{
+  position: absolute;
+  top: 320%;
+  left: 2%;
+  width: 100%;
+  height: 40%;
+}
+.domain4
+{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+}
+.domain5
+{
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+.domain6
+{
+  position: absolute;
+  top: 20%;
+  left: 70%;
+}
+.dom
+{
+  position: absolute;
+  top: 350%;
+  left: 2%;
+  width: 100%;
+  height: 40%;
+}
+.domain7
+{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+}
+.domain8
+{
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+.domain9
+{
+  position: absolute;
+  top: 20%;
+  left: 70%;
+}
+.b1
+{
+  position: absolute;
+  top: 390%;
+  left: 40%;
+  padding: 15px 50px;
+  background-color: forestgreen;
+  color: white;
+  border-radius: 10px;
+}
